@@ -1,0 +1,1 @@
+RandomForestClassifier(max_features='log2', n_estimators=128, random_state=42)

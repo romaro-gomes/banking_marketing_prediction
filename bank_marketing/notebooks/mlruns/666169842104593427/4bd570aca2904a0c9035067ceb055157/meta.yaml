@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/4bd570aca2904a0c9035067ceb055157/artifacts
+end_time: 1733098843885
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 4bd570aca2904a0c9035067ceb055157
+run_name: melodic-mare-423
+run_uuid: 4bd570aca2904a0c9035067ceb055157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733098300533
+status: 3
+tags: []
+user_id: gomes

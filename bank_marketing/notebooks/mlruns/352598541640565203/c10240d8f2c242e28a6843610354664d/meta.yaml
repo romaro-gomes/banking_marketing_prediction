@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/352598541640565203/c10240d8f2c242e28a6843610354664d/artifacts
+end_time: 1733187627014
+entry_point_name: ''
+experiment_id: '352598541640565203'
+lifecycle_stage: active
+run_id: c10240d8f2c242e28a6843610354664d
+run_name: honorable-boar-711
+run_uuid: c10240d8f2c242e28a6843610354664d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733187626748
+status: 3
+tags: []
+user_id: gomes

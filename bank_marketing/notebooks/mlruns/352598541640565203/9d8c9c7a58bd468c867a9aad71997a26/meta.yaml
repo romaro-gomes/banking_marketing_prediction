@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/352598541640565203/9d8c9c7a58bd468c867a9aad71997a26/artifacts
+end_time: 1733107498917
+entry_point_name: ''
+experiment_id: '352598541640565203'
+lifecycle_stage: active
+run_id: 9d8c9c7a58bd468c867a9aad71997a26
+run_name: thundering-flea-557
+run_uuid: 9d8c9c7a58bd468c867a9aad71997a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733107498586
+status: 3
+tags: []
+user_id: gomes

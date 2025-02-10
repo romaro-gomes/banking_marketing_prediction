@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/30fc0ffba6944810a69b5b8cc66bc88b/artifacts
+end_time: 1733091162469
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 30fc0ffba6944810a69b5b8cc66bc88b
+run_name: inquisitive-colt-831
+run_uuid: 30fc0ffba6944810a69b5b8cc66bc88b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091162457
+status: 4
+tags: []
+user_id: gomes

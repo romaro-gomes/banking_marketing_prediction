@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/1b3b16afde8f458db57d2cd9060872bd/artifacts
+end_time: 1733091364442
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 1b3b16afde8f458db57d2cd9060872bd
+run_name: bustling-wasp-843
+run_uuid: 1b3b16afde8f458db57d2cd9060872bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091363725
+status: 4
+tags: []
+user_id: gomes

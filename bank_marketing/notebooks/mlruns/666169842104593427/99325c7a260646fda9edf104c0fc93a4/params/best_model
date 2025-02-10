@@ -1,0 +1,2 @@
+DecisionTreeClassifier(criterion='log_loss', max_features='sqrt',
+                       random_state=42)

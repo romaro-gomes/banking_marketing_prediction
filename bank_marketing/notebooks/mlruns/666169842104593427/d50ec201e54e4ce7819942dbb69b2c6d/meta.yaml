@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/d50ec201e54e4ce7819942dbb69b2c6d/artifacts
+end_time: 1733093629029
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: d50ec201e54e4ce7819942dbb69b2c6d
+run_name: burly-elk-971
+run_uuid: d50ec201e54e4ce7819942dbb69b2c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733092542285
+status: 3
+tags: []
+user_id: gomes

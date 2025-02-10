@@ -1,0 +1,1 @@
+RandomForestClassifier(criterion='entropy', n_estimators=256, random_state=42)

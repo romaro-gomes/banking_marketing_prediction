@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./../css/index.css">
+    <title>banking predction</title>
+</head>
+
+<body>
+    <header>
+    <div class="cover">
+        <h1>Bank Marketing Sucessfull</h1>
+        <h2>Machine Learning Decision Support</h2>
+    </div>
+    </header>
+
+    <main>
+    <h2 class="form-title">Client Features</h2>
+    <form action="http://127.0.0.1:8000/clientForm" target="_blank" method="post">
+        <fieldset>
+
+            <span class="input-format">
+                <label for="age">Age</label>
+                <input type="number" id="age" name="age" max="99" min="18">
+            </span>
+         
+            <span class="input-format">
+                <label for="job">Type of job</label>
+                <select id="job" name="job">
+                    <option value="retired">Retired</option>
+                    <option value="student">Student</option>
+                    <option value="self-employed">Self-employed</option>
+                    <option value="housemaid">Housemaid</option>
+                    <option value="admin.">Administrator</option>
+                    <option value="blue-collar">Blue Collar</option>
+                    <option value="management">Management</option>
+                    <option value="technician">Technician</option>
+                    <option value="entrepreneur">Entrepreneur</option>
+                    <option value="services">Services</option>
+                    <option value="unemployed">Unemployed</option>
+                    <option value="unknown">Unknown</option>
+                </select>
+
+            </span>
+
+            <span class="input-format">
+                <label for="marital">Marital Status</label>
+                <select id="marital" name="marital">               
+                    <option value="married">Married</option>
+                    <option value="single">Single</option>
+                    <option value="divorced">Divorced</option>
+                </select>
+            </span>
+        
+            <span class="input-format">
+                <label for="education">Education Level</label>
+                <select id="education" name="education">
+                    <option value="primary">Primary</option>
+                    <option value="secondary">Secondary</option>
+                    <option value="tertiary">Tertiary</option>
+                    <option value="unknown">Unknown</option>
+                </select>
+            </span>
+
+            <span class="input-format">
+                <label for="default">Has credit?</label>
+                <select id="default" name="default">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                </select>
+            </span>
+        
+            <span class="input-format">
+                <label for="balance">Medium yearly balance</label>
+                <input type="text" name="balance" id="balance" min="-9000" max="110000">
+            </span>      
+        
+            <span class="input-format">
+                <label for="housing">Housing loan?</label>
+                <select name="housing" id="housing">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                </select>
+            </span>
+
+            <span class="input-format">
+                <label for="loan">Personal loan? </label>
+                <select name="loan" id="loan">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                </select>
+            </span>     
+
+            <span class="input-format">
+                <label for="contact">Communication type</label>
+                <select  name="contact" id="contact">
+                    <option value="cellular">Cellular</option>
+                    <option value="telephone">Telephone</option>
+                    <option value="unknown">Unknown</option>
+                </select>
+            </span>
+
+            <span class="input-format">
+                <label for="day">Last contact day </label>
+                <input type="number" name="day" id="day" min="1" max="31">
+            </span>
+        
+            <span class="input-format">
+                <label for="month">Last contact Month</label>
+                <select type="text" name="month" id="month">
+                    <option value="jan">January</option>
+                    <option value="feb">Febuary</option>
+                    <option value="mar">March</option>
+                    <option value="apr">April</option>
+                    <option value="may">May</option>
+                    <option value="jun">June</option>
+                    <option value="jul">July</option>
+                    <option value="aug">August</option>
+                    <option value="sep">September</option>
+                    <option value="out">Octuber</option>
+                    <option value="nov">November</option>
+                    <option value="dec">December</option>
+                </select>
+            </span>
+        
+            <span class="input-format">
+                <label for="duration">Last contact duration(s)</label>
+                <input type="number" name="duration" id="duration" min="0" max="5000">
+            </span>
+
+            <span class="input-format">
+                <label for="campaign">Number of contacts  </label>
+                <input type="number" name="campaign" id="campaign" max="63" min="1">
+            </span>
+
+            <span class="input-format">
+                <label for="pdays">Days that passed by after last contact</label>
+                <input type="number" name="pdays" id="pdays"  max="880">
+            </span>
+
+            <span class="input-format">
+                <label for="previous">Previous Contact</label>
+                <input type="number" name="previous" id="previous" min="0" max="275">
+            </span>
+        
+            <span class="input-format last" >
+                <label for="poutcome">Previous Outcome</label>
+                <select name="poutcome" id="poutcome">
+                    <option value="success">Sucess</option>
+                    <option value="failure">Failure</option>
+                    <option value="other">Other</option>
+                    <option value="unknown">Unknown</option>
+                </select>
+            </span>
+        
+        </fieldset>
+        <button id='submit' type="submit">Submit</button>
+
+    </form>
+    <div class="response">
+
+    </div>
+</main>
+<script src="../scripts/response.js"></script>
+</body>
+
+</html>

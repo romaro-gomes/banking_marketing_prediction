@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/5bdbb8afd7654e0986fa9a5a81a0f3a5/artifacts
+end_time: 1733091162527
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 5bdbb8afd7654e0986fa9a5a81a0f3a5
+run_name: dapper-finch-505
+run_uuid: 5bdbb8afd7654e0986fa9a5a81a0f3a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091162517
+status: 4
+tags: []
+user_id: gomes

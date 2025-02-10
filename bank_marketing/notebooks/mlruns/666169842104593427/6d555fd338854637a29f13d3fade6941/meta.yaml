@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/6d555fd338854637a29f13d3fade6941/artifacts
+end_time: 1733091266162
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 6d555fd338854637a29f13d3fade6941
+run_name: calm-tern-447
+run_uuid: 6d555fd338854637a29f13d3fade6941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091266155
+status: 4
+tags: []
+user_id: gomes

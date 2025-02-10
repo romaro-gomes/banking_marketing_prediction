@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/851b0bf6da0d4b9cb20d3bf3ac43563f/artifacts
+end_time: 1733091106340
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 851b0bf6da0d4b9cb20d3bf3ac43563f
+run_name: secretive-seal-484
+run_uuid: 851b0bf6da0d4b9cb20d3bf3ac43563f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091106334
+status: 4
+tags: []
+user_id: gomes

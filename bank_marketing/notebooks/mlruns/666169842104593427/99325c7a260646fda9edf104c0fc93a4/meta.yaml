@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/99325c7a260646fda9edf104c0fc93a4/artifacts
+end_time: 1733185611087
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 99325c7a260646fda9edf104c0fc93a4
+run_name: intelligent-foal-493
+run_uuid: 99325c7a260646fda9edf104c0fc93a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733185601461
+status: 3
+tags: []
+user_id: gomes

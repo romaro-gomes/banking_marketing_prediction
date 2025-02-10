@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/602b7d76e79f496b9164724ae9f25272/artifacts
+end_time: 1733092164751
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 602b7d76e79f496b9164724ae9f25272
+run_name: bedecked-vole-157
+run_uuid: 602b7d76e79f496b9164724ae9f25272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733092160524
+status: 3
+tags: []
+user_id: gomes

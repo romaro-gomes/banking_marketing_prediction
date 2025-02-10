@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/892e7bf3668b4ce5b7a83f69ffd46b16/artifacts
+end_time: 1733091106320
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 892e7bf3668b4ce5b7a83f69ffd46b16
+run_name: bouncy-colt-939
+run_uuid: 892e7bf3668b4ce5b7a83f69ffd46b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091106315
+status: 4
+tags: []
+user_id: gomes

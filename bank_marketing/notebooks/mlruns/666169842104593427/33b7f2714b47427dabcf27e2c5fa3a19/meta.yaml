@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/33b7f2714b47427dabcf27e2c5fa3a19/artifacts
+end_time: 1733187622623
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 33b7f2714b47427dabcf27e2c5fa3a19
+run_name: exultant-fowl-377
+run_uuid: 33b7f2714b47427dabcf27e2c5fa3a19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733186885385
+status: 3
+tags: []
+user_id: gomes

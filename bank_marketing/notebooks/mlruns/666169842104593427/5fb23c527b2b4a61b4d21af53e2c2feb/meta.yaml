@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/5fb23c527b2b4a61b4d21af53e2c2feb/artifacts
+end_time: 1733090845573
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 5fb23c527b2b4a61b4d21af53e2c2feb
+run_name: aged-jay-23
+run_uuid: 5fb23c527b2b4a61b4d21af53e2c2feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733090845565
+status: 4
+tags: []
+user_id: gomes

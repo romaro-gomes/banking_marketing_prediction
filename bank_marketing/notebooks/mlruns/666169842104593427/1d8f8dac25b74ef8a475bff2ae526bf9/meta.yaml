@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/1d8f8dac25b74ef8a475bff2ae526bf9/artifacts
+end_time: 1733091094483
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 1d8f8dac25b74ef8a475bff2ae526bf9
+run_name: fortunate-ray-138
+run_uuid: 1d8f8dac25b74ef8a475bff2ae526bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091094477
+status: 4
+tags: []
+user_id: gomes

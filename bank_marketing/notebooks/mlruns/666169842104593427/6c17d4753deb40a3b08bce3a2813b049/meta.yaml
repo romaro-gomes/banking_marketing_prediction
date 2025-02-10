@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/6c17d4753deb40a3b08bce3a2813b049/artifacts
+end_time: 1733186744346
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 6c17d4753deb40a3b08bce3a2813b049
+run_name: traveling-cow-94
+run_uuid: 6c17d4753deb40a3b08bce3a2813b049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733186736195
+status: 3
+tags: []
+user_id: gomes

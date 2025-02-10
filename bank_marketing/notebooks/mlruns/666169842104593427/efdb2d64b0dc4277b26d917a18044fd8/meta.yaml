@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/efdb2d64b0dc4277b26d917a18044fd8/artifacts
+end_time: 1733098853045
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: efdb2d64b0dc4277b26d917a18044fd8
+run_name: luxuriant-conch-637
+run_uuid: efdb2d64b0dc4277b26d917a18044fd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733098843888
+status: 3
+tags: []
+user_id: gomes

@@ -1,0 +1,2 @@
+GradientBoostingClassifier(learning_rate=0.05, n_estimators=256,
+                           random_state=42, subsample=0.6)

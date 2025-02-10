@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/c1df1ee4ace6442996bb9df79914222c/artifacts
+end_time: 1733091357640
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: c1df1ee4ace6442996bb9df79914222c
+run_name: clean-slug-275
+run_uuid: c1df1ee4ace6442996bb9df79914222c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091356149
+status: 4
+tags: []
+user_id: gomes

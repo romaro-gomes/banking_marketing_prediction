@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/669acba3c14f47fcb0a32d6ce15846c5/artifacts
+end_time: 1733090994330
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 669acba3c14f47fcb0a32d6ce15846c5
+run_name: traveling-sheep-238
+run_uuid: 669acba3c14f47fcb0a32d6ce15846c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733090994325
+status: 4
+tags: []
+user_id: gomes

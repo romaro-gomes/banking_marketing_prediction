@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/e63970c32d2d4ad9a41f1685a3498bb2/artifacts
+end_time: 1733091357847
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: e63970c32d2d4ad9a41f1685a3498bb2
+run_name: salty-carp-868
+run_uuid: e63970c32d2d4ad9a41f1685a3498bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091357642
+status: 4
+tags: []
+user_id: gomes

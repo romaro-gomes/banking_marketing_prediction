@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/5e3b3d7695ad4110b1755d249e98b9e6/artifacts
+end_time: 1733091162511
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 5e3b3d7695ad4110b1755d249e98b9e6
+run_name: clumsy-dog-40
+run_uuid: 5e3b3d7695ad4110b1755d249e98b9e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091162504
+status: 4
+tags: []
+user_id: gomes

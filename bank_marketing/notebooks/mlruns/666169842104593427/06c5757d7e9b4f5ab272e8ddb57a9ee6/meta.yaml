@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/06c5757d7e9b4f5ab272e8ddb57a9ee6/artifacts
+end_time: 1733186885383
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 06c5757d7e9b4f5ab272e8ddb57a9ee6
+run_name: youthful-trout-678
+run_uuid: 06c5757d7e9b4f5ab272e8ddb57a9ee6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733186744349
+status: 3
+tags: []
+user_id: gomes

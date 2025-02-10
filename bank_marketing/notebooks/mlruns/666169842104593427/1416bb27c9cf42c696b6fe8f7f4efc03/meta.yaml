@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/1416bb27c9cf42c696b6fe8f7f4efc03/artifacts
+end_time: 1733100102472
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 1416bb27c9cf42c696b6fe8f7f4efc03
+run_name: fun-skink-368
+run_uuid: 1416bb27c9cf42c696b6fe8f7f4efc03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733100096345
+status: 3
+tags: []
+user_id: gomes

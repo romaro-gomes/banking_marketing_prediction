@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/dc6c8f73c89643669491508ce43ecaa5/artifacts
+end_time: 1733090756394
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: dc6c8f73c89643669491508ce43ecaa5
+run_name: useful-snail-797
+run_uuid: dc6c8f73c89643669491508ce43ecaa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733090756389
+status: 4
+tags: []
+user_id: gomes

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/5ac84de6de6149a499e2808114593a89/artifacts
+end_time: 1733090845530
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 5ac84de6de6149a499e2808114593a89
+run_name: luminous-seal-450
+run_uuid: 5ac84de6de6149a499e2808114593a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733090845522
+status: 4
+tags: []
+user_id: gomes

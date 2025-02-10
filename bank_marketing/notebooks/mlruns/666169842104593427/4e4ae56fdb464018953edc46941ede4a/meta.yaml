@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/4e4ae56fdb464018953edc46941ede4a/artifacts
+end_time: 1733100178260
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: 4e4ae56fdb464018953edc46941ede4a
+run_name: painted-elk-982
+run_uuid: 4e4ae56fdb464018953edc46941ede4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733100102475
+status: 3
+tags: []
+user_id: gomes

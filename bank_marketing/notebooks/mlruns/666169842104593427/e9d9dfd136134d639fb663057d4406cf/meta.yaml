@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gomes/Documentos/Projetos/Bank_Marketing/bank_marketing/notebooks/mlruns/666169842104593427/e9d9dfd136134d639fb663057d4406cf/artifacts
+end_time: 1733091162479
+entry_point_name: ''
+experiment_id: '666169842104593427'
+lifecycle_stage: active
+run_id: e9d9dfd136134d639fb663057d4406cf
+run_name: grandiose-donkey-369
+run_uuid: e9d9dfd136134d639fb663057d4406cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733091162471
+status: 4
+tags: []
+user_id: gomes
